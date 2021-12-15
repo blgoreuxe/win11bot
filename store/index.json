@@ -33,6 +33,22 @@
     }
   },
   {
+    "name": "Excel",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/826px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png",
+    "type": "app",
+    "data": {
+      "type": "IFrame",
+      "url": "https://win.asylum-os.com/data/excel.html",
+      "gallery": [
+        "https://www.techrepublic.com/a/hub/i/r/2019/05/31/b9b3ae1d-6799-4118-8bcf-2bc3747c018f/resize/1200x/04c6599c3bc58330bd3350dd77984274/figure-b.jpg",
+        "https://www.smartsheet.com/sites/default/files/IC-how-to-make-spreadsheet-11%20copy.jpg",
+        "https://www.techrepublic.com/a/hub/i/r/2021/05/17/0fda89a7-51a1-4ef2-9c66-d492f21b4254/resize/1200x/89b7448d974ce30168eb278f5230b2a4/excel-spreadsheet.jpg"
+      ],
+      "desc": "Microsoft Excel is a spreadsheet developed by Microsoft for Windows, macOS, Android and iOS. It features calculation, graphing tools, pivot tables",
+      "feat": "graphing tools"
+    }
+  },
+  {
     "name": "Shell Shockers",
     "icon": "https://play-lh.googleusercontent.com/P-nde227L29s8w5U44kTPLiEnMEJUhJpEr4jL6tD6LV65Xz0JZtI4wEyFN-smsNrx-Q",
     "type": "game",
