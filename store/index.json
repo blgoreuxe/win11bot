@@ -31,6 +31,22 @@
     }
   },
   {
+    "name": "windows96",
+    "icon": "https://i.redd.it/kksrotgwyya61.png",
+    "type": "app",
+    "data": {
+      "type": "IFrame",
+      "url": "https://windows96.net/",
+      "gallery": [
+        "https://static.wikia.nocookie.net/windows/images/8/80/W98-2.png/revision/latest?cb=20191005212338",
+        "https://www.extremetech.com/wp-content/uploads/2017/02/win98-640x353.jpg",
+        "https://support.brother.com/g/b/img/faqend/faqh00000051_000/gb/en/5425/faqh000051_05.jpg"
+      ],
+      "desc": "Windows 96 recreation",
+      "feat": "The os older then your mother."
+    }
+  },
+  {
     "name": "DieBug",
     "icon": "https://img.itch.zone/aW1nLzc1MjYzNjcucG5n/105x83%23/4Nr3ep.png",
     "type": "game",
