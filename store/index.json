@@ -370,5 +370,21 @@
       "desc": "osu!, is a fun free-to-play rhythm game",
       "feat": "fun game with alot of beatmaps"
     }
+  },
+  {
+    "name": "Dash Clicker",
+    "icon": "https://i.ibb.co/bBh4kYJ/71b457bd-14f4-4768-b34b-c9097fc94ad8.jpg",
+    "type": "game",
+    "data": {
+      "type": "IFrame",
+      "url": "https://dashclicker.com/",
+      "gallery": [
+        "https://raw.githubusercontent.com/armn/Dashclicker/master/src/assets/images/screenshot.png",
+        "https://preview.redd.it/qq3wou3zpcp71.png?width=1366&format=png&auto=webp&s=418ba40fba2f64f5b5ab84be23fdbfec86749528",
+        "https://i.redd.it/xnrak7gpfds31.png"
+      ],
+      "desc": "A clicker game for nerds",
+      "feat": "A clicker game for nerds"
+    }
   }
 ]
