@@ -354,5 +354,21 @@
       "desc": "Shoot down turrets as you fly through the trench avoiding any and all obstacles in this epic 3D space flying game.",
       "feat": "A cool game"
     }
+  },
+  {
+    "name": "osu!",
+    "icon": "https://i.ibb.co/k6GWsJn/download.jpg",
+    "type": "game",
+    "data": {
+      "type": "IFrame",
+      "url": "https://webosu.online/",
+      "gallery": [
+        "https://gamefaqs.gamespot.com/a/screen/full/4/0/0/919400.jpg",
+        "https://i.ibb.co/xhfLhWs/Screenshot-2022-01-16-2-16-18-PM.png",
+        "https://www.taminggaming.com/cms/graphics/screen_shot_3459.jpeg"
+      ],
+      "desc": "osu!, is a fun free-to-play rhythm game",
+      "feat": "fun game with alot of beatmaps"
+    }
   }
 ]
